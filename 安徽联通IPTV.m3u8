@@ -3,17 +3,23 @@
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000152
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV-2财经
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000477
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺(源1)
+http://183.207.249.14/PLTV/3/224/3221225588/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV-3综艺(源2)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225634/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育(源1)
+http://117.136.154.98/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育(源2)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225751/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+体育赛事
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影(源1)
+http://183.207.255.190/live/program/live/cctv6hd/4000000/mnf.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影(源2)
 http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7军事农业
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV-7军事
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000485
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV-8电视剧
 http://ivi.bupt.edu.cn/hls/cctv8hd.m3u8
@@ -25,7 +31,9 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000480
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000583
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png",CCTV-12社会与法
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000482
-#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻(源1)
+http://117.136.154.98/PLTV/88888888/224/3221225510/index.m3u8
+#EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png",CCTV-13新闻(源2)
 http://39.135.138.59:18890/PLTV/88888910/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV-14少儿
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000483
@@ -205,8 +213,12 @@ http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000515
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000516
 #EXTINF:-1 group-title="未分类",台球
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000518
+#EXTINF:-1 group-title="未分类",美人
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000504
 #EXTINF:-1 group-title="未分类",武术
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000520
+#EXTINF:-1 group-title="未分类",高网
+http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000521
 #EXTINF:-1 group-title="未分类",军事
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000507
 #EXTINF:-1 group-title="未分类",地理
