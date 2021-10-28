@@ -8,7 +8,7 @@ http://10.255.126.3:8006/AHBKLIVE/11111120210729000000000000000003
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV-4中文国际
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000573
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV-5体育
-http://117.136.154.98/PLTV/88888888/224/3221225780/index.m3u8
+http://10.255.126.3:8006/AHBKLIVE/11111120210528000000000000000001
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV-5+体育赛事
 http://10.255.126.3:8006/AHBKLIVE/00000001000000050000000000000153
 #EXTINF:-1 group-title="央视" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV-6电影
